@@ -6,6 +6,7 @@ See [terraform.io](http://terraform.io) for more information on terraform
 ## Current Feature Roadmap
 
 ### Amazon AWS Resources
+ - [x] AWS Provider
  - [ ] VPC Resource
  - [ ] VPC Subnet
  - [ ] VPC Security Groups

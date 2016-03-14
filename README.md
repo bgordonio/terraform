@@ -8,6 +8,7 @@ See [terraform.io](http://terraform.io) for more information on terraform
 ### Amazon AWS Resources
  - [ ] VPC Resource
  - [ ] VPC Subnet
+ - [ ] VPC Security Groups
  - [ ] Internal Route53 Forward DNS Zone
  - [ ] Internal Route53 Reverse DNS Zone
  - [ ] SSH Gateway EC2 Instance

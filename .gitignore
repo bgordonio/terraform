@@ -1,2 +1,3 @@
+#Ignore local terraform files
 terraform.*
-*.sh
+*.tfvars
